@@ -38,7 +38,7 @@ Copy code
 [
 Potenciando la Educación y la Investigación en Ingeniería Química con MATLAB y Simulink
 ](
-https://github.com/tuusuario/nombre-del-repo-quimica
+https://github.com/tuusuario/nombre-del-repo](https://github.com/gabyarellano/Seminario_IngQuimica
 )
 |
  MATLAB y Simulink son herramientas ampliamente utilizadas en la industria química para análisis de datos, modelado de procesos, control, optimización, inteligencia artificial, adquisición de datos y control de instrumentos. Este repositorio contiene materiales para estudiantes de ingeniería química, abarcando cursos como balances de materia y energía, métodos numéricos, cinética de reacciones, mecánica de fluidos, transferencia de calor y masa, operaciones unitarias, control de procesos, modelado y optimización. También incluye recursos para competencias estudiantiles como CHEM-E-CAR, integrando MATLAB y Simulink con hardware como Arduino o Raspberry Pi. 
@@ -47,7 +47,7 @@ https://github.com/tuusuario/nombre-del-repo-quimica
 [
 Seminario: Procesamiento de Imágenes Hecho Fácil con MATLAB
 ](
-https://github.com/tuusuario/nombre-del-repo-imagenes
+[https://github.com/tuusuario/nombre-del-repo-imagenes](https://github.com/gabyarellano/Seminario_ProcesamientoImagenes)
 )
 |
  El procesamiento de imágenes es la base para construir sistemas basados en visión de cámaras. Este repositorio contiene materiales del webinar enfocado en flujos de trabajo clave para facilitar el desarrollo de proyectos con imágenes en ingeniería, oceanografía y ciencias biomédicas. Incluye ejemplos del mundo real utilizando apps interactivas y Live Scripts, técnicas de pre-procesamiento y realzamiento, segmentación de objetos de interés y ejecución de código en múltiples imágenes. 
